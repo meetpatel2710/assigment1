@@ -75,13 +75,13 @@ body {
     font-style: italic;
     font: 500;
     font-variant: var(#00ff00);
-    font-size: 1.2em;
+    font-size: 1.5em;
   }
   
   
   ul li {
     list-style: none;
-    line-height: 1.6;
+    line-height: 2;
   }
   
   ul > a {
@@ -90,5 +90,5 @@ body {
   }
   
   aside a:hover {
-  color: #00ff00;
+  color: #ffff00;
   }
