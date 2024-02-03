@@ -1,0 +1,94 @@
+/* Name: Meet Patel , Student Number: 8980814 */
+
+
+body {
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+    font: 16px/1.5 , sans-serif;
+    padding: 20px;
+    font:400 ;
+  }
+  
+  
+  footer {
+    border: 1px solid #000000;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 10px 0;
+  }
+  header{
+    border: 1px solid #000000;
+    text-align: left;
+    border-radius: 25px;
+    padding: 15px;
+    margin: 10px 0;
+  
+  }
+  
+  
+  h1,h2 {
+    color: rgb(179, 255, 0);
+    font-variant: small-caps;
+  }
+  
+  footer p {
+    font-size: 14px;
+    color: green;
+    clear: both;
+    border: 1px solid #000000;
+    border-radius: 20px;
+    margin: 10px 0;
+    padding: 10px;
+    text-align: center;
+  
+  }
+  
+  main {
+    float: left;
+    width: 60%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
+    padding: 15px;
+    margin-right: 10px;
+  }
+  
+  aside {
+    float: left;
+    width: 30%;
+  
+    padding: 15px;
+    margin-left: 20px;
+  }
+  
+  figure img {
+      border: 3px solid black;
+  }
+  
+  figcaption {
+    font-weight: bold;
+    font-variant: small-caps;
+  }
+  
+  q {
+    font-family: cursive;
+    font-style: italic;
+    font: 500;
+    font-variant: var(#00ff00);
+    font-size: 1.2em;
+  }
+  
+  
+  ul li {
+    list-style: none;
+    line-height: 1.6;
+  }
+  
+  ul > a {
+    text-decoration: none;
+    color: #ff0000;
+  }
+  
+  aside a:hover {
+  color: #00ff00;
+  }
